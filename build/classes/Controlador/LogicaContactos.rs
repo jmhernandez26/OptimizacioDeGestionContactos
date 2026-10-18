@@ -1,0 +1,6 @@
+controlador.LogicaContactos$3
+controlador.LogicaContactos$2
+controlador.LogicaContactos$5
+controlador.LogicaContactos$4
+controlador.LogicaContactos$1
+controlador.LogicaContactos
